@@ -4,12 +4,6 @@ A portfolio single page application using React and Material UI
 
 #### Installing
 
-Clone the repository using following command or download
-
-```
-
-```
-
 #### To install dependency
 
 ```
